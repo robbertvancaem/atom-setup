@@ -6,4 +6,5 @@ UI Theme: Atom Material
 Syntax Theme: Atom Material
 
 `file-icons` to display nice icons in the tree view and tabs  
-`minimap` to have a preview of the full source code
+`minimap` to have a preview of the full source code  
+`atom-beautify` to beautify most extensions (Cmd+Option+B)
